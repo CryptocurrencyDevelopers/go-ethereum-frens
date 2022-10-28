@@ -22,7 +22,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 type keyStorePlain struct {

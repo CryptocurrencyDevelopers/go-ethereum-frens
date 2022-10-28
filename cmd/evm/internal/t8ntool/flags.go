@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/vm"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/tests"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/vm"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/tests"
 	"gopkg.in/urfave/cli.v1"
 )
 

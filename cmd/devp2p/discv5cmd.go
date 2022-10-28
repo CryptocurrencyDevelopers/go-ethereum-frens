@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/cmd/devp2p/internal/v5test"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/discover"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/cmd/devp2p/internal/v5test"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/discover"
 	"gopkg.in/urfave/cli.v1"
 )
 

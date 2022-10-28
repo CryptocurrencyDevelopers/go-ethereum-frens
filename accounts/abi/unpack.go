@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 var (

@@ -41,23 +41,23 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/keystore"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/cmd/utils"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/downloader"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/ethconfig"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethclient"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethstats"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/les"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/node"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/nat"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/keystore"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/cmd/utils"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/downloader"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/ethconfig"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethclient"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethstats"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/les"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/node"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/nat"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 	"github.com/gorilla/websocket"
 )
 
@@ -469,7 +469,7 @@ func (f *faucet) apiHandler(w http.ResponseWriter, r *http.Request) {
 			id = username
 		default:
 			//lint:ignore ST1005 This error is to be displayed in the browser
-			err = errors.New("Something funky happened, please open an issue at https://github.com/CryptocurrencyDevelopers/go-ethereum/issues")
+			err = errors.New("Something funky happened, please open an issue at https://github.com/CryptocurrencyDevelopers/go-ethereum-frens/issues")
 		}
 		if err != nil {
 			if err = sendError(wsconn, err); err != nil {

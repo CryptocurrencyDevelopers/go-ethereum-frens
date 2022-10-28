@@ -26,13 +26,13 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/rawdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/event"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/rawdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/event"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 	"github.com/prometheus/tsdb/fileutil"
 )
 

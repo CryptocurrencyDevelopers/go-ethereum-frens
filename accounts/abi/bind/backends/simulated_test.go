@@ -27,14 +27,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/abi"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/abi/bind"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/abi"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/abi/bind"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 )
 
 func TestSimulatedBackend(t *testing.T) {

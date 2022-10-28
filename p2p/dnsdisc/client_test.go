@@ -26,12 +26,12 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/mclock"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/testlog"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enr"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/mclock"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/testlog"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enr"
 )
 
 const (

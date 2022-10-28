@@ -19,10 +19,10 @@ package ethtest
 import (
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/protocols/eth"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/utesting"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/protocols/eth"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/utesting"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
 )
 
 // Suite represents a structure used to test a node's conformance

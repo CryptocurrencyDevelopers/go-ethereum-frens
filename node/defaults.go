@@ -22,9 +22,9 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/nat"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/nat"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 )
 
 const (

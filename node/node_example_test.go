@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/node"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/node"
 )
 
 // SampleLifecycle is a trivial network service that can be attached to a node for

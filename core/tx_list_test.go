@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
 )
 
 // Tests that transactions can be added to strict lists and list contents and

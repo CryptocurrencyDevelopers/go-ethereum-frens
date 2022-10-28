@@ -21,9 +21,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/vm"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/tracers"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/vm"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/tracers"
 )
 
 func init() {

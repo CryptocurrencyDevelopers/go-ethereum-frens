@@ -24,13 +24,13 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rlp"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rlp"
 )
 
 // ReadCanonicalHash retrieves the hash assigned to a canonical block number.

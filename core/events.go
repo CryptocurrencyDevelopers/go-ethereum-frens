@@ -17,8 +17,8 @@
 package core
 
 import (
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
 )
 
 // NewTxsEvent is posted when a batch of transactions enter the transaction pool.

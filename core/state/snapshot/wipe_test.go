@@ -20,9 +20,9 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/rawdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb/memorydb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/rawdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb/memorydb"
 )
 
 // Tests that given a database with random data content, all parts of a snapshot

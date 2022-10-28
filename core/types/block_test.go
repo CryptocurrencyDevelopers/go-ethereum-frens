@@ -23,11 +23,11 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/math"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rlp"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/math"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

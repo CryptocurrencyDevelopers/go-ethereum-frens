@@ -21,8 +21,8 @@ package geth
 import (
 	"errors"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 // Subscription represents an event subscription where events are

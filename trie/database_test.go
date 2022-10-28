@@ -19,8 +19,8 @@ package trie
 import (
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb/memorydb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb/memorydb"
 )
 
 // Tests that the trie database returns a missing trie node error if attempting

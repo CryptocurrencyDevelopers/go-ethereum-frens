@@ -17,8 +17,8 @@
 package les
 
 import (
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
 )
 
 var (

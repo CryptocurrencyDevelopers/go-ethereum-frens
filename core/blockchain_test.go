@@ -27,20 +27,20 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/math"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus/beacon"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus/ethash"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/rawdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/state"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/vm"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/tracers/logger"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/trie"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/math"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus/beacon"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus/ethash"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/rawdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/state"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/vm"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/tracers/logger"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/trie"
 )
 
 // So we can deterministically seed different blockchains
@@ -1596,7 +1596,7 @@ func TestEIP161AccountRemoval(t *testing.T) {
 // tests that under weird reorg conditions the blockchain and its internal header-
 // chain return the same latest block/header.
 //
-// https://github.com/CryptocurrencyDevelopers/go-ethereum/pull/15941
+// https://github.com/CryptocurrencyDevelopers/go-ethereum-frens/pull/15941
 func TestBlockchainHeaderchainReorgConsistency(t *testing.T) {
 	// Generate a canonical chain to act as the main dataset
 	engine := ethash.NewFaker()
@@ -1878,8 +1878,8 @@ func TestInsertReceiptChainRollback(t *testing.T) {
 // overtake the 'canon' chain until after it's passed canon by about 200 blocks.
 //
 // Details at:
-//  - https://github.com/CryptocurrencyDevelopers/go-ethereum/issues/18977
-//  - https://github.com/CryptocurrencyDevelopers/go-ethereum/pull/18988
+//  - https://github.com/CryptocurrencyDevelopers/go-ethereum-frens/issues/18977
+//  - https://github.com/CryptocurrencyDevelopers/go-ethereum-frens/pull/18988
 func TestLowDiffLongChain(t *testing.T) {
 	// Generate a canonical chain to act as the main dataset
 	engine := ethash.NewFaker()

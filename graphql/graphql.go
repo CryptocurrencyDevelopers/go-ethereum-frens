@@ -24,15 +24,15 @@ import (
 	"math/big"
 	"strconv"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/hexutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/math"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/state"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/filters"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/ethapi"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/hexutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/math"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/state"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/filters"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/ethapi"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 )
 
 var (

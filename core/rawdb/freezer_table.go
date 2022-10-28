@@ -27,9 +27,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
 	"github.com/golang/snappy"
 )
 

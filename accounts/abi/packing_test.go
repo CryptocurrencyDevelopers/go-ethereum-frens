@@ -19,7 +19,7 @@ package abi
 import (
 	"math/big"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 type packUnpackTest struct {

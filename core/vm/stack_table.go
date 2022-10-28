@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 )
 
 func minSwapStack(n int) int {

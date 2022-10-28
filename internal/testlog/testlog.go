@@ -21,7 +21,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 )
 
 // Handler returns a log handler which logs to the unit test log of t.

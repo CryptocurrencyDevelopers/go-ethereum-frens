@@ -22,7 +22,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 )
 
 func init() {

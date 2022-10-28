@@ -6,10 +6,10 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/hexutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/math"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/hexutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/math"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
 )
 
 var _ = (*btHeaderMarshaling)(nil)

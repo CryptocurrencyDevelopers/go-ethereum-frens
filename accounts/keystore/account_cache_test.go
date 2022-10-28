@@ -29,8 +29,8 @@ import (
 
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 var (

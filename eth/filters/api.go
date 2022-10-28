@@ -25,12 +25,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/hexutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/event"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/hexutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/event"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 )
 
 // filter is a helper struct that holds meta information over the filter type

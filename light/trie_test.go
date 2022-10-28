@@ -24,13 +24,13 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus/ethash"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/rawdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/state"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/vm"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/trie"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus/ethash"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/rawdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/state"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/vm"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/trie"
 )
 
 func TestNodeIterator(t *testing.T) {

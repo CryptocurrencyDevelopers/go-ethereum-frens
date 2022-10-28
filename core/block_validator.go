@@ -19,11 +19,11 @@ package core
 import (
 	"fmt"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/state"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/trie"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/state"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/trie"
 )
 
 // BlockValidator is responsible for validating block headers, uncles and

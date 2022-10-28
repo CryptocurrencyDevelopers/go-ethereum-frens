@@ -22,13 +22,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/bitutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/bloombits"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/rawdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/node"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/bitutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/bloombits"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/rawdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/node"
 )
 
 func BenchmarkBloomBits512(b *testing.B) {

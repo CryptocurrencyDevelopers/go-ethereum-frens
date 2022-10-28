@@ -19,15 +19,15 @@ package main
 import (
 	"strconv"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/abi/bind"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/external"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/cmd/utils"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/contracts/checkpointoracle"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethclient"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/abi/bind"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/external"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/cmd/utils"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/contracts/checkpointoracle"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethclient"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

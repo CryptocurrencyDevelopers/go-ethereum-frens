@@ -21,10 +21,10 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/protocols/eth"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/protocols/snap"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/protocols/eth"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/protocols/snap"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
 )
 
 var (

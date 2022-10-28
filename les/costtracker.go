@@ -23,12 +23,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/mclock"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/ethconfig"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/les/flowcontrol"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/mclock"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/ethconfig"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/les/flowcontrol"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
 )
 
 const makeCostStats = false // make request cost statistics during operation

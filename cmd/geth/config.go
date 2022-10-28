@@ -27,17 +27,17 @@ import (
 
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/external"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/keystore"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/scwallet"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/usbwallet"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/cmd/utils"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/ethconfig"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/ethapi"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/node"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/external"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/keystore"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/scwallet"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/usbwallet"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/cmd/utils"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/ethconfig"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/ethapi"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/node"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 	"github.com/naoina/toml"
 )
 

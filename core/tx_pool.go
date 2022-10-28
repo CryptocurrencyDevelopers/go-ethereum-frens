@@ -25,15 +25,15 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/prque"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus/misc"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/state"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/event"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/prque"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus/misc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/state"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/event"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 )
 
 const (

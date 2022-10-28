@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 )
 
 // deployEthstats queries the user for various input on deploying an ethstats

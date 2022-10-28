@@ -23,9 +23,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/cmd/utils"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus/ethash"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/cmd/utils"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus/ethash"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

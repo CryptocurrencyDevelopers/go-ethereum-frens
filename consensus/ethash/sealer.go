@@ -30,10 +30,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/hexutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/hexutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
 )
 
 const (

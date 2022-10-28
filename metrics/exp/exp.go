@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics/prometheus"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics/prometheus"
 )
 
 type exp struct {

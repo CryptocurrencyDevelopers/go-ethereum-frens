@@ -23,7 +23,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/simulations/pipes"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/simulations/pipes"
 )
 
 func TestTCPPipe(t *testing.T) {

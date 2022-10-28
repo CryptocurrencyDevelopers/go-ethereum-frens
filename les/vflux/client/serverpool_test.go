@@ -24,11 +24,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/mclock"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethdb/memorydb"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enr"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/mclock"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethdb/memorydb"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enr"
 )
 
 const (

@@ -22,10 +22,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/mclock"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enr"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/nodestate"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/mclock"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enr"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/nodestate"
 )
 
 const (

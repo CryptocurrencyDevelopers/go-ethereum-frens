@@ -19,7 +19,7 @@ package params
 import (
 	"math/big"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 // DAOForkBlockExtra is the block header extra-data field to set for the DAO fork

@@ -25,17 +25,17 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/keystore"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/scwallet"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/usbwallet"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/hexutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/ethapi"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/signer/core/apitypes"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/signer/storage"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/keystore"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/scwallet"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/usbwallet"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/hexutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/ethapi"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/signer/core/apitypes"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/signer/storage"
 )
 
 const (

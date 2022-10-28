@@ -31,11 +31,11 @@ import (
 	"syscall"
 
 	"github.com/dop251/goja"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/console/prompt"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/jsre"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/jsre/deps"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/web3ext"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/console/prompt"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/jsre"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/jsre/deps"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/web3ext"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 )

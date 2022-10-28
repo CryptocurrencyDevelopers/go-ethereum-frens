@@ -19,7 +19,7 @@ package ethash
 import (
 	"math/big"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
 	"github.com/holiman/uint256"
 )
 

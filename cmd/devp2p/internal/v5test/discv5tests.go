@@ -22,10 +22,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/utesting"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/discover/v5wire"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/netutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/utesting"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/discover/v5wire"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/netutil"
 )
 
 // Suite is the discv5 test suite.

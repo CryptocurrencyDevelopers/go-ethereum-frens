@@ -22,14 +22,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/hexutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/ethapi"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/signer/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/signer/core/apitypes"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/signer/storage"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/hexutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/ethapi"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/signer/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/signer/core/apitypes"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/signer/storage"
 )
 
 const JS = `

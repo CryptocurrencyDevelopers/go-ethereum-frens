@@ -19,10 +19,10 @@ package simulations
 import (
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enr"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enr"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 )
 
 // NoopService is the service that does not do anything

@@ -21,12 +21,12 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/beacon"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/les"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/node"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/beacon"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/les"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/node"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 )
 
 // Register adds catalyst APIs to the light client.

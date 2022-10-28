@@ -25,11 +25,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/accounts/keystore"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/console/prompt"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/dnsdisc"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/accounts/keystore"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/console/prompt"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/dnsdisc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
 	"gopkg.in/urfave/cli.v1"
 )
 

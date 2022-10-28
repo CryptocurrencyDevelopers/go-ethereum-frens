@@ -22,12 +22,12 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/protocols/snap"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/utesting"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/light"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/trie"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/protocols/snap"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/utesting"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/light"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/trie"
 	"golang.org/x/crypto/sha3"
 )
 

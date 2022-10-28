@@ -19,7 +19,7 @@ package types
 import (
 	"math/big"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 //go:generate gencodec -type AccessTuple -out gen_access_tuple.go

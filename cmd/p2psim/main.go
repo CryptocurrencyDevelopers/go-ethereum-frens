@@ -45,12 +45,12 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enode"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/simulations"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/simulations/adapters"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enode"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/simulations"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/simulations/adapters"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

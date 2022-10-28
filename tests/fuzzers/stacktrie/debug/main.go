@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/tests/fuzzers/stacktrie"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/tests/fuzzers/stacktrie"
 )
 
 func main() {

@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/vm"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

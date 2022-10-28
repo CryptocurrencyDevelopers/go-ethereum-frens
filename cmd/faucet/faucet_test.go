@@ -19,7 +19,7 @@ package main
 import (
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 func TestFacebook(t *testing.T) {

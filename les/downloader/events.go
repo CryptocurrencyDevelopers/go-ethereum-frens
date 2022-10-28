@@ -16,7 +16,7 @@
 
 package downloader
 
-import "github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
+import "github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
 
 type DoneEvent struct {
 	Latest *types.Header

@@ -19,7 +19,7 @@ package rpc
 import (
 	"fmt"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
 )
 
 var (

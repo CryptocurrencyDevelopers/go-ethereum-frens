@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
 )
 
 func TestInterfaceGetSet(t *testing.T) {

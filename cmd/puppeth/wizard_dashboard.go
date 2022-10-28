@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 )
 
 // deployDashboard queries the user for various input on deploying a web-service

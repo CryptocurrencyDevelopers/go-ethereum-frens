@@ -19,7 +19,7 @@ package bitutil
 import (
 	"bytes"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/bitutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/bitutil"
 )
 
 // Fuzz implements a go-fuzz fuzzer method to test various encoding method

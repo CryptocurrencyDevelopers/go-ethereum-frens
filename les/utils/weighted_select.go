@@ -20,7 +20,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 )
 
 type (

@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/tests/fuzzers/difficulty"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/tests/fuzzers/difficulty"
 )
 
 func main() {

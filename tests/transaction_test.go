@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 )
 
 func TestTransaction(t *testing.T) {

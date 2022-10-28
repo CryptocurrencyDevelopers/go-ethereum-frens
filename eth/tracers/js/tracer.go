@@ -28,14 +28,14 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/hexutil"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/vm"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/crypto"
-	tracers2 "github.com/CryptocurrencyDevelopers/go-ethereum/eth/tracers"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/tracers/js/internal/tracers"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/hexutil"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/vm"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/crypto"
+	tracers2 "github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/tracers"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/tracers/js/internal/tracers"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 	"gopkg.in/olebedev/go-duktape.v3"
 )
 

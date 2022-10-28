@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 )
 
 // ensureVirtualHost checks whether a reverse-proxy is running on the specified

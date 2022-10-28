@@ -27,7 +27,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common/math"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common/math"
 )
 
 type testEncoder struct {

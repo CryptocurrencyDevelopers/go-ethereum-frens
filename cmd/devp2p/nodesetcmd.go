@@ -25,10 +25,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/forkid"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/enr"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rlp"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/forkid"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/enr"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rlp"
 	"gopkg.in/urfave/cli.v1"
 )
 

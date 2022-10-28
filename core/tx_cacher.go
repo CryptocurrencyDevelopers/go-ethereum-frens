@@ -19,7 +19,7 @@ package core
 import (
 	"runtime"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core/types"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core/types"
 )
 
 // senderCacher is a concurrent transaction sender recoverer and cacher.

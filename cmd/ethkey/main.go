@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/flags"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/flags"
 	"gopkg.in/urfave/cli.v1"
 )
 

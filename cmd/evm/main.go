@@ -22,9 +22,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/cmd/evm/internal/t8ntool"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/cmd/utils"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/flags"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/cmd/evm/internal/t8ntool"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/cmd/utils"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/flags"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/rpc"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/rpc"
 	"github.com/stretchr/testify/assert"
 )
 

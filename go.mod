@@ -1,4 +1,4 @@
-module github.com/CryptocurrencyDevelopers/go-ethereum
+module github.com/CryptocurrencyDevelopers/go-ethereum-frens
 
 go 1.15
 

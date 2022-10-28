@@ -26,15 +26,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/common"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/consensus/ethash"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/console/prompt"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/ethconfig"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/jsre"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/miner"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/node"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/common"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/consensus/ethash"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/console/prompt"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/ethconfig"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/jsre"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/miner"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/node"
 )
 
 const (

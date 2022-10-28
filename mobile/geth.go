@@ -24,17 +24,17 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/CryptocurrencyDevelopers/go-ethereum/core"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/downloader"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/eth/ethconfig"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethclient"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/ethstats"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/internal/debug"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/les"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/node"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/p2p/nat"
-	"github.com/CryptocurrencyDevelopers/go-ethereum/params"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/core"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/downloader"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/eth/ethconfig"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethclient"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/ethstats"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/internal/debug"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/les"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/node"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/p2p/nat"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/params"
 )
 
 // NodeConfig represents the collection of configuration values to fine tune the Geth

@@ -20,7 +20,7 @@
 package metrics
 
 import (
-	"github.com/CryptocurrencyDevelopers/go-ethereum/log"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/log"
 	"github.com/shirou/gopsutil/cpu"
 )
 

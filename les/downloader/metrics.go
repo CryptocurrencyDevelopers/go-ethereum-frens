@@ -19,7 +19,7 @@
 package downloader
 
 import (
-	"github.com/CryptocurrencyDevelopers/go-ethereum/metrics"
+	"github.com/CryptocurrencyDevelopers/go-ethereum-frens/metrics"
 )
 
 var (
